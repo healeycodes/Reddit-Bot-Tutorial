@@ -12,6 +12,7 @@ Remember to follow Reddit's [bottiquette](https://www.reddit.com/wiki/bottiquett
 
 ### Setup
 
+- `pip install praw`
 - Create your Reddit script app, and get your client id and client secret:
 
 <br>
