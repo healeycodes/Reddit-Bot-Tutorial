@@ -34,6 +34,10 @@ $env:CLIENTPASS='reddit-password'
 
 <br>
 
+### Contributing
+
+You're very welcome to expand the bot or raise any issues.
+
 <hr>
 
 License: MIT
